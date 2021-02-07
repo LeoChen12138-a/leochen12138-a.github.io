@@ -12,25 +12,64 @@
       <link>https://leochen12138-a.github.io/</link>
     </image>
     
-    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://leochen12138-a.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>学习,记录,测试</description>
-    <pubDate>Sun, 07 Feb 2021 13:56:54 GMT</pubDate>
+    <pubDate>Sun, 07 Feb 2021 15:56:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>高等数学</title>
+      <link>https://leochen12138-a.github.io/p/93e4730e/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/93e4730e/index.html</guid>
+      <pubDate>Sun, 07 Feb 2021 15:07:04 GMT</pubDate>
+      
+      <description>基于“黄博士网”的高等数学手册和考研数学一大纲的数学笔记</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/">考研数学</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E8%80%83%E7%A0%94/">考研</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E6%95%B0%E5%AD%A6%E4%B8%80/">数学一</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/93e4730e/index.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>如何利用和拓展Github</title>
       <link>https://leochen12138-a.github.io/p/6cb83021/index.html</link>
       <guid>https://leochen12138-a.github.io/p/6cb83021/index.html</guid>
       <pubDate>Fri, 21 Aug 2020 01:02:45 GMT</pubDate>
-      <description>
       
-        使用 Chrome 和脚本定制化高效的处理 Github 页面及仓库项目
+      <description>使用 Chrome 和脚本定制化高效的处理 Github 页面及仓库项目</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/">导航</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/Github/">Github</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Chrome/">Chrome</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Github/">Github</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83/">工作环境</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E6%95%88%E7%8E%87/">效率</category>
       
       
       <comments>https://leochen12138-a.github.io/p/6cb83021/index.html#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -38,14 +77,24 @@
       <link>https://leochen12138-a.github.io/p/75db2910/index.html</link>
       <guid>https://leochen12138-a.github.io/p/75db2910/index.html</guid>
       <pubDate>Wed, 19 Aug 2020 11:39:35 GMT</pubDate>
-      <description>
       
-        Python各类库(补充)
+      <description>Python各类库(补充)</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/Python/">Python</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/Python/%E5%BA%93/">库</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Python/">Python</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E5%BA%93/">库</category>
       
       
       <comments>https://leochen12138-a.github.io/p/75db2910/index.html#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -53,14 +102,22 @@
       <link>https://leochen12138-a.github.io/p/b174f57a/index.html</link>
       <guid>https://leochen12138-a.github.io/p/b174f57a/index.html</guid>
       <pubDate>Wed, 19 Aug 2020 11:00:38 GMT</pubDate>
-      <description>
       
-        如何了解最新资讯
+      <description>如何了解最新资讯</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/">学习</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/RSS/">RSS</category>
       
       
       <comments>https://leochen12138-a.github.io/p/b174f57a/index.html#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -68,14 +125,28 @@
       <link>https://leochen12138-a.github.io/p/19e842bb/index.html</link>
       <guid>https://leochen12138-a.github.io/p/19e842bb/index.html</guid>
       <pubDate>Mon, 17 Aug 2020 04:31:31 GMT</pubDate>
-      <description>
       
-        如何在WSL环境下高效使用 Emacs 与 Autohotkey ,提升编辑与编程的速度,优化工作流.
+      <description>如何在WSL环境下高效使用 Emacs 与 Autohotkey ,提升编辑与编程的速度,优化工作流.</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/">学习</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/WSL/">WSL</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Autohotkey/">Autohotkey</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Vim/">Vim</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Emacs/">Emacs</category>
       
       
       <comments>https://leochen12138-a.github.io/p/19e842bb/index.html#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -83,14 +154,24 @@
       <link>https://leochen12138-a.github.io/p/c352598f/index.html</link>
       <guid>https://leochen12138-a.github.io/p/c352598f/index.html</guid>
       <pubDate>Sat, 08 Aug 2020 04:39:14 GMT</pubDate>
-      <description>
       
-        Python各类库(转载)
+      <description>Python各类库(转载)</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/Python/">Python</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/Python/%E5%BA%93/">库</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Python/">Python</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E5%BA%93/">库</category>
       
       
       <comments>https://leochen12138-a.github.io/p/c352598f/index.html#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -98,14 +179,28 @@
       <link>https://leochen12138-a.github.io/p/37235ffc/index.html</link>
       <guid>https://leochen12138-a.github.io/p/37235ffc/index.html</guid>
       <pubDate>Thu, 06 Aug 2020 09:44:56 GMT</pubDate>
-      <description>
       
-        Nindows平台下Node.js版本控制工具nvm-windows
+      <description>Nindows平台下Node.js版本控制工具nvm-windows</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AE%89%E8%A3%85/">安装</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AE%89%E8%A3%85/Node-js-nvm-winodows/">Node.js_nvm-winodows</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Windows/">Windows</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Node-js/">Node.js</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/">版本控制</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/nvm-windows/">nvm-windows</category>
       
       
       <comments>https://leochen12138-a.github.io/p/37235ffc/index.html#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -113,14 +208,36 @@
       <link>https://leochen12138-a.github.io/p/5f5df35/index.html</link>
       <guid>https://leochen12138-a.github.io/p/5f5df35/index.html</guid>
       <pubDate>Tue, 21 Jul 2020 03:00:51 GMT</pubDate>
-      <description>
       
-        这是一章站点导航的记录
+      <description>这是一章站点导航的记录</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/">导航</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/%E7%AB%99%E7%82%B9/">站点</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E5%BC%80%E5%8F%91%E7%A4%BE%E5%8C%BA/">开发社区</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E6%96%87%E6%A1%A3/">文档</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E8%AE%BA%E6%96%87/">论文</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E6%9F%A5%E8%AF%A2/">查询</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E7%AE%97%E6%B3%95/">算法</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1/">云服务</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E7%BD%91%E8%AF%BE/">网课</category>
       
       
       <comments>https://leochen12138-a.github.io/p/5f5df35/index.html#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -128,14 +245,28 @@
       <link>https://leochen12138-a.github.io/p/b7b5d508/index.html</link>
       <guid>https://leochen12138-a.github.io/p/b7b5d508/index.html</guid>
       <pubDate>Fri, 17 Jul 2020 11:07:01 GMT</pubDate>
-      <description>
       
-        静态博客HEXO主题Windows下CICD|CDN|DevOps全流程指南
+      <description>静态博客HEXO主题Windows下CICD|CDN|DevOps全流程指南</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/">静态博客</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/hexo/">hexo</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Windows/">Windows</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/CICD/">CICD</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/CDN/">CDN</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/DevOps/">DevOps</category>
       
       
       <comments>https://leochen12138-a.github.io/p/b7b5d508/index.html#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -143,14 +274,24 @@
       <link>https://leochen12138-a.github.io/p/58d8cc5e/index.html</link>
       <guid>https://leochen12138-a.github.io/p/58d8cc5e/index.html</guid>
       <pubDate>Fri, 17 Jul 2020 10:31:14 GMT</pubDate>
-      <description>
       
-        hexo-butterfly标签外挂(转载)
+      <description>hexo-butterfly标签外挂(转载)</description>
       
-      </description>
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/">静态博客</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/hexo/">hexo</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/hexo-butterfly/">hexo_butterfly</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/">标签外挂</category>
       
       
       <comments>https://leochen12138-a.github.io/p/58d8cc5e/index.html#disqus_thread</comments>
+      
     </item>
     
   </channel>
