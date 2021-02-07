@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leochen的博客</title>
+    <link>https://leochen12138-a.github.io/</link>
+    
+    <image>
+      <url>https://leochen12138-a.github.io/favicon.png</url>
+      <title>Leochen的博客</title>
+      <link>https://leochen12138-a.github.io/</link>
+    </image>
+    
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>学习,记录,测试</description>
+    <pubDate>Sun, 07 Feb 2021 13:56:54 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何利用和拓展Github</title>
+      <link>https://leochen12138-a.github.io/p/6cb83021/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/6cb83021/index.html</guid>
+      <pubDate>Fri, 21 Aug 2020 01:02:45 GMT</pubDate>
+      <description>
+      
+        使用 Chrome 和脚本定制化高效的处理 Github 页面及仓库项目
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/6cb83021/index.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Python各类库(补充)</title>
+      <link>https://leochen12138-a.github.io/p/75db2910/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/75db2910/index.html</guid>
+      <pubDate>Wed, 19 Aug 2020 11:39:35 GMT</pubDate>
+      <description>
+      
+        Python各类库(补充)
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/75db2910/index.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>如何了解最新资讯</title>
+      <link>https://leochen12138-a.github.io/p/b174f57a/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/b174f57a/index.html</guid>
+      <pubDate>Wed, 19 Aug 2020 11:00:38 GMT</pubDate>
+      <description>
+      
+        如何了解最新资讯
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/b174f57a/index.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>如何在WSL下做好键盘侠</title>
+      <link>https://leochen12138-a.github.io/p/19e842bb/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/19e842bb/index.html</guid>
+      <pubDate>Mon, 17 Aug 2020 04:31:31 GMT</pubDate>
+      <description>
+      
+        如何在WSL环境下高效使用 Emacs 与 Autohotkey ,提升编辑与编程的速度,优化工作流.
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/19e842bb/index.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Python各类库(转载)</title>
+      <link>https://leochen12138-a.github.io/p/c352598f/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/c352598f/index.html</guid>
+      <pubDate>Sat, 08 Aug 2020 04:39:14 GMT</pubDate>
+      <description>
+      
+        Python各类库(转载)
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/c352598f/index.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Windows平台下Node.js版本控制工具nvm-windows</title>
+      <link>https://leochen12138-a.github.io/p/37235ffc/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/37235ffc/index.html</guid>
+      <pubDate>Thu, 06 Aug 2020 09:44:56 GMT</pubDate>
+      <description>
+      
+        Nindows平台下Node.js版本控制工具nvm-windows
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/37235ffc/index.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>站点汇总</title>
+      <link>https://leochen12138-a.github.io/p/5f5df35/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/5f5df35/index.html</guid>
+      <pubDate>Tue, 21 Jul 2020 03:00:51 GMT</pubDate>
+      <description>
+      
+        这是一章站点导航的记录
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/5f5df35/index.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>静态博客HEXO搭建全流程</title>
+      <link>https://leochen12138-a.github.io/p/b7b5d508/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/b7b5d508/index.html</guid>
+      <pubDate>Fri, 17 Jul 2020 11:07:01 GMT</pubDate>
+      <description>
+      
+        静态博客HEXO主题Windows下CICD|CDN|DevOps全流程指南
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/b7b5d508/index.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>hexo-butterfly标签外挂(转载)</title>
+      <link>https://leochen12138-a.github.io/p/58d8cc5e/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/58d8cc5e/index.html</guid>
+      <pubDate>Fri, 17 Jul 2020 10:31:14 GMT</pubDate>
+      <description>
+      
+        hexo-butterfly标签外挂(转载)
+      
+      </description>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/58d8cc5e/index.html#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>

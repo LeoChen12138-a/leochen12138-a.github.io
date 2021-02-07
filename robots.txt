@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Allow: /posts/
+
+Disallow: /about/
+Disallow: /archives/
+Disallow: /js/
+Disallow: /css/
+Disallow: /contact/
+Disallow: /fonts/
+Disallow: /friends/
+Disallow: /libs/
+Disallow: /medias/
+Disallow: /page/
+Disallow: /tags/
+Disallow: /categories/
+
+Sitemap: https://leochen12138.github.io/sitemap.xml
+Sitemap: https://leochen12138-a.github.io/baidusitemap.xml
