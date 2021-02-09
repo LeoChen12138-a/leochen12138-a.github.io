@@ -165,13 +165,6 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/tags/RSS/</loc>
-    <lastmod>2021-02-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://leochen12138-a.github.io/tags/Chrome/</loc>
     <lastmod>2021-02-09</lastmod>
     <changefreq>daily</changefreq>
@@ -194,6 +187,13 @@
   
   <url>
     <loc>https://leochen12138-a.github.io/tags/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2021-02-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leochen12138-a.github.io/tags/RSS/</loc>
     <lastmod>2021-02-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -349,13 +349,6 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-02-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://leochen12138-a.github.io/categories/Python/%E5%BA%93/</loc>
     <lastmod>2021-02-09</lastmod>
     <changefreq>daily</changefreq>
@@ -370,14 +363,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/</loc>
     <lastmod>2021-02-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/</loc>
+    <loc>https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-02-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -391,6 +384,13 @@
   </url>
   
   <url>
+    <loc>https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/Github/</loc>
+    <lastmod>2021-02-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-02-09</lastmod>
     <changefreq>daily</changefreq>
@@ -398,7 +398,7 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/Github/</loc>
+    <loc>https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2021-02-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
