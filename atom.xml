@@ -40,11 +40,11 @@
   </entry>
   
   <entry>
-    <title>Programming Language_TOC</title>
+    <title>Language_TOC</title>
     <link href="https://leochen12138-a.github.io/p/163aac3/index.html"/>
     <id>https://leochen12138-a.github.io/p/163aac3/index.html</id>
     <published>2021-02-11T10:06:10.000Z</published>
-    <updated>2021-02-11T12:54:20.839Z</updated>
+    <updated>2021-02-11T18:30:58.272Z</updated>
     
     
     <summary type="html">这是一个与 Programming Language 相关的导航页面</summary>
@@ -53,12 +53,12 @@
     
     <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
     
-    <category term="Programming Language" scheme="https://leochen12138-a.github.io/categories/TOC/Programming-Language/"/>
+    <category term="Language" scheme="https://leochen12138-a.github.io/categories/TOC/Language/"/>
     
     
     <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
     
-    <category term="Programming Language" scheme="https://leochen12138-a.github.io/tags/Programming-Language/"/>
+    <category term="Language" scheme="https://leochen12138-a.github.io/tags/Language/"/>
     
   </entry>
   
@@ -90,7 +90,7 @@
     <link href="https://leochen12138-a.github.io/p/4a6fa974/index.html"/>
     <id>https://leochen12138-a.github.io/p/4a6fa974/index.html</id>
     <published>2021-02-11T09:51:09.000Z</published>
-    <updated>2021-02-11T12:53:59.958Z</updated>
+    <updated>2021-02-11T18:30:34.965Z</updated>
     
     
     <summary type="html">这是一个与 OnlineCourses 相关的导航页面</summary>
@@ -99,12 +99,12 @@
     
     <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
     
-    <category term="OnlineCourses" scheme="https://leochen12138-a.github.io/categories/TOC/OnlineCourses/"/>
+    <category term="Courses" scheme="https://leochen12138-a.github.io/categories/TOC/Courses/"/>
     
     
     <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
     
-    <category term="OnlineCourses" scheme="https://leochen12138-a.github.io/tags/OnlineCourses/"/>
+    <category term="Courses" scheme="https://leochen12138-a.github.io/tags/Courses/"/>
     
   </entry>
   
@@ -581,19 +581,19 @@
     <link href="https://leochen12138-a.github.io/p/75db2910/index.html"/>
     <id>https://leochen12138-a.github.io/p/75db2910/index.html</id>
     <published>2020-08-19T11:39:35.000Z</published>
-    <updated>2021-02-11T12:34:43.979Z</updated>
+    <updated>2021-02-11T18:28:45.158Z</updated>
     
     
     <summary type="html">Python 中各种库按照用途分类整理的简要介绍。补充的部分</summary>
     
     
     
-    <category term="Programming Language" scheme="https://leochen12138-a.github.io/categories/Programming-Language/"/>
+    <category term="Language" scheme="https://leochen12138-a.github.io/categories/Language/"/>
     
-    <category term="Python" scheme="https://leochen12138-a.github.io/categories/Programming-Language/Python/"/>
+    <category term="Python" scheme="https://leochen12138-a.github.io/categories/Language/Python/"/>
     
     
-    <category term="Programming Language" scheme="https://leochen12138-a.github.io/tags/Programming-Language/"/>
+    <category term="Language" scheme="https://leochen12138-a.github.io/tags/Language/"/>
     
     <category term="Python" scheme="https://leochen12138-a.github.io/tags/Python/"/>
     
