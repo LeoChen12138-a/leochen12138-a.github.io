@@ -6,7 +6,7 @@
   <link href="https://leochen12138-a.github.io/atom.xml" rel="self"/>
   
   <link href="https://leochen12138-a.github.io/"/>
-  <updated>2021-02-11T08:17:50.206Z</updated>
+  <updated>2021-02-11T12:31:05.888Z</updated>
   <id>https://leochen12138-a.github.io/</id>
   
   <author>
@@ -17,192 +17,708 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>高等数学</title>
+    <title>Site-TOC</title>
+    <link href="https://leochen12138-a.github.io/p/c01d27ff/index.html"/>
+    <id>https://leochen12138-a.github.io/p/c01d27ff/index.html</id>
+    <published>2021-02-11T12:23:56.000Z</published>
+    <updated>2021-02-11T12:31:05.888Z</updated>
+    
+    
+    <summary type="html">这是一个与 Site 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Site" scheme="https://leochen12138-a.github.io/categories/TOC/Site/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Site" scheme="https://leochen12138-a.github.io/tags/Site/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Programming Language_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/163aac3/index.html"/>
+    <id>https://leochen12138-a.github.io/p/163aac3/index.html</id>
+    <published>2021-02-11T10:06:10.000Z</published>
+    <updated>2021-02-11T12:16:46.139Z</updated>
+    
+    
+    <summary type="html">这是一个与 Programming Language 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Programming Language" scheme="https://leochen12138-a.github.io/categories/TOC/Programming-Language/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Programming Language" scheme="https://leochen12138-a.github.io/tags/Programming-Language/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rank_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/e3139e8d/index.html"/>
+    <id>https://leochen12138-a.github.io/p/e3139e8d/index.html</id>
+    <published>2021-02-11T09:51:47.000Z</published>
+    <updated>2021-02-11T12:17:38.739Z</updated>
+    
+    
+    <summary type="html">这是一个与 Rank 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Rank" scheme="https://leochen12138-a.github.io/categories/TOC/Rank/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Rank" scheme="https://leochen12138-a.github.io/tags/Rank/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OnlineCourses_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/4a6fa974/index.html"/>
+    <id>https://leochen12138-a.github.io/p/4a6fa974/index.html</id>
+    <published>2021-02-11T09:51:09.000Z</published>
+    <updated>2021-02-11T12:11:58.659Z</updated>
+    
+    
+    <summary type="html">这是一个与 OnlineCourses 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="OnlineCourses" scheme="https://leochen12138-a.github.io/categories/TOC/OnlineCourses/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="OnlineCourses" scheme="https://leochen12138-a.github.io/tags/OnlineCourses/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Journal_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/fc1147e/index.html"/>
+    <id>https://leochen12138-a.github.io/p/fc1147e/index.html</id>
+    <published>2021-02-11T09:50:18.000Z</published>
+    <updated>2021-02-11T12:05:06.697Z</updated>
+    
+    
+    <summary type="html">这是一个与 Journal 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Journal" scheme="https://leochen12138-a.github.io/categories/TOC/Journal/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Journal" scheme="https://leochen12138-a.github.io/tags/Journal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Blogger_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/825997be/index.html"/>
+    <id>https://leochen12138-a.github.io/p/825997be/index.html</id>
+    <published>2021-02-11T09:49:04.000Z</published>
+    <updated>2021-02-11T11:56:47.816Z</updated>
+    
+    
+    <summary type="html">这是一个与 Blogger 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Blogger" scheme="https://leochen12138-a.github.io/categories/TOC/Blogger/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Blogger" scheme="https://leochen12138-a.github.io/tags/Blogger/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mathematics_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/8cace3bf/index.html"/>
+    <id>https://leochen12138-a.github.io/p/8cace3bf/index.html</id>
+    <published>2021-02-11T09:33:37.000Z</published>
+    <updated>2021-02-11T12:09:41.025Z</updated>
+    
+    
+    <summary type="html">这是一个与 Mathematics 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Mathematics" scheme="https://leochen12138-a.github.io/categories/TOC/Mathematics/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Mathematics" scheme="https://leochen12138-a.github.io/tags/Mathematics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ReprintArtcle_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/2d27a908/index.html"/>
+    <id>https://leochen12138-a.github.io/p/2d27a908/index.html</id>
+    <published>2021-02-11T09:32:58.000Z</published>
+    <updated>2021-02-11T12:18:50.481Z</updated>
+    
+    
+    <summary type="html">这是一个与 ReprintArtcle 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="ReprintArtcle" scheme="https://leochen12138-a.github.io/categories/TOC/ReprintArtcle/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="ReprintArtcle" scheme="https://leochen12138-a.github.io/tags/ReprintArtcle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Software_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/7e299bd4/index.html"/>
+    <id>https://leochen12138-a.github.io/p/7e299bd4/index.html</id>
+    <published>2021-02-11T09:16:58.000Z</published>
+    <updated>2021-02-11T12:23:21.330Z</updated>
+    
+    
+    <summary type="html">这是一个与 Software 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Software" scheme="https://leochen12138-a.github.io/categories/TOC/Software/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Software" scheme="https://leochen12138-a.github.io/tags/Software/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Search_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/87266bf1/index.html"/>
+    <id>https://leochen12138-a.github.io/p/87266bf1/index.html</id>
+    <published>2021-02-11T09:15:18.000Z</published>
+    <updated>2021-02-11T12:21:19.900Z</updated>
+    
+    
+    <summary type="html">这是一个与 Search 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Search" scheme="https://leochen12138-a.github.io/categories/TOC/Search/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Search" scheme="https://leochen12138-a.github.io/tags/Search/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Security_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/6592c5ca/index.html"/>
+    <id>https://leochen12138-a.github.io/p/6592c5ca/index.html</id>
+    <published>2021-02-11T09:14:52.000Z</published>
+    <updated>2021-02-11T12:22:26.556Z</updated>
+    
+    
+    <summary type="html">这是一个与 Security 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Security" scheme="https://leochen12138-a.github.io/categories/TOC/Security/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Security" scheme="https://leochen12138-a.github.io/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Demo_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/de9c565c/index.html"/>
+    <id>https://leochen12138-a.github.io/p/de9c565c/index.html</id>
+    <published>2021-02-11T09:11:52.000Z</published>
+    <updated>2021-02-11T12:00:32.150Z</updated>
+    
+    
+    <summary type="html">这是一个与 Demo 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Demo" scheme="https://leochen12138-a.github.io/categories/TOC/Demo/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Demo" scheme="https://leochen12138-a.github.io/tags/Demo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Physics_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/e105ff14/index.html"/>
+    <id>https://leochen12138-a.github.io/p/e105ff14/index.html</id>
+    <published>2021-02-11T09:11:41.000Z</published>
+    <updated>2021-02-11T12:14:55.524Z</updated>
+    
+    
+    <summary type="html">这是一个与 Physics 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Physics" scheme="https://leochen12138-a.github.io/categories/TOC/Physics/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Physics" scheme="https://leochen12138-a.github.io/tags/Physics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Papers_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/fc2f65a6/index.html"/>
+    <id>https://leochen12138-a.github.io/p/fc2f65a6/index.html</id>
+    <published>2021-02-11T09:11:23.000Z</published>
+    <updated>2021-02-11T12:14:01.354Z</updated>
+    
+    
+    <summary type="html">这是一个与 Papers 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Papers" scheme="https://leochen12138-a.github.io/categories/TOC/Papers/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Papers" scheme="https://leochen12138-a.github.io/tags/Papers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OS_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/50907679/index.html"/>
+    <id>https://leochen12138-a.github.io/p/50907679/index.html</id>
+    <published>2021-02-11T09:10:59.000Z</published>
+    <updated>2021-02-11T12:13:10.927Z</updated>
+    
+    
+    <summary type="html">这是一个与 OS 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="OS" scheme="https://leochen12138-a.github.io/categories/TOC/OS/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="OS" scheme="https://leochen12138-a.github.io/tags/OS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Net_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/bddcd3c4/index.html"/>
+    <id>https://leochen12138-a.github.io/p/bddcd3c4/index.html</id>
+    <published>2021-02-11T09:10:49.000Z</published>
+    <updated>2021-02-11T12:10:42.470Z</updated>
+    
+    
+    <summary type="html">这是一个与 Net 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Net" scheme="https://leochen12138-a.github.io/categories/TOC/Net/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Net" scheme="https://leochen12138-a.github.io/tags/Net/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Life_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/eaaecfff/index.html"/>
+    <id>https://leochen12138-a.github.io/p/eaaecfff/index.html</id>
+    <published>2021-02-11T09:10:19.000Z</published>
+    <updated>2021-02-11T12:06:27.811Z</updated>
+    
+    
+    <summary type="html">这是一个与 Life 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/categories/TOC/Life/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/tags/Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hardware_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/d3509ac3/index.html"/>
+    <id>https://leochen12138-a.github.io/p/d3509ac3/index.html</id>
+    <published>2021-02-11T09:09:27.000Z</published>
+    <updated>2021-02-11T12:04:00.519Z</updated>
+    
+    
+    <summary type="html">这是一个与 Hardware 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Hardware" scheme="https://leochen12138-a.github.io/categories/TOC/Hardware/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Hardware" scheme="https://leochen12138-a.github.io/tags/Hardware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DevOps_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/6fecdb66/index.html"/>
+    <id>https://leochen12138-a.github.io/p/6fecdb66/index.html</id>
+    <published>2021-02-11T09:08:35.000Z</published>
+    <updated>2021-02-11T12:01:43.342Z</updated>
+    
+    
+    <summary type="html">这是一个与 DevOps 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="DevOps" scheme="https://leochen12138-a.github.io/categories/TOC/DevOps/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="DevOps" scheme="https://leochen12138-a.github.io/tags/DevOps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CS_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/2752b602/index.html"/>
+    <id>https://leochen12138-a.github.io/p/2752b602/index.html</id>
+    <published>2021-02-11T09:08:16.000Z</published>
+    <updated>2021-02-11T11:59:27.627Z</updated>
+    
+    
+    <summary type="html">这是一个与 CS 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="CS" scheme="https://leochen12138-a.github.io/categories/TOC/CS/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="CS" scheme="https://leochen12138-a.github.io/tags/CS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Books_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/def60eca/index.html"/>
+    <id>https://leochen12138-a.github.io/p/def60eca/index.html</id>
+    <published>2021-02-11T09:05:59.000Z</published>
+    <updated>2021-02-11T11:58:14.002Z</updated>
+    
+    
+    <summary type="html">这是一个与 Books 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Books" scheme="https://leochen12138-a.github.io/categories/TOC/Books/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Books" scheme="https://leochen12138-a.github.io/tags/Books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Algorithm_TOC</title>
+    <link href="https://leochen12138-a.github.io/p/f708b32b/index.html"/>
+    <id>https://leochen12138-a.github.io/p/f708b32b/index.html</id>
+    <published>2021-02-11T09:04:38.000Z</published>
+    <updated>2021-02-11T11:58:03.686Z</updated>
+    
+    
+    <summary type="html">这是一个与 Algorithm 相关的导航页面</summary>
+    
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/categories/TOC/"/>
+    
+    <category term="Algorithm" scheme="https://leochen12138-a.github.io/categories/TOC/Algorithm/"/>
+    
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Algorithm" scheme="https://leochen12138-a.github.io/tags/Algorithm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>考研数学一的思考(一)</title>
     <link href="https://leochen12138-a.github.io/p/93e4730e/index.html"/>
     <id>https://leochen12138-a.github.io/p/93e4730e/index.html</id>
     <published>2021-02-07T15:07:04.000Z</published>
-    <updated>2021-02-11T08:17:50.206Z</updated>
+    <updated>2021-02-11T12:37:19.346Z</updated>
     
     
-    <summary type="html">基于“黄博士网”的高等数学手册和考研数学一大纲的数学笔记</summary>
+    <summary type="html">基于“黄博士网”的高等数学手册，考研数学一大纲的复习笔记。</summary>
     
     
     
-    <category term="高等数学" scheme="https://leochen12138-a.github.io/categories/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
+    <category term="Mathematics" scheme="https://leochen12138-a.github.io/categories/Mathematics/"/>
     
-    <category term="考研数学" scheme="https://leochen12138-a.github.io/categories/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/"/>
+    <category term="Mathematics" scheme="https://leochen12138-a.github.io/categories/Mathematics/Mathematics/"/>
     
+    
+    <category term="Mathematics" scheme="https://leochen12138-a.github.io/tags/Mathematics/"/>
     
     <category term="考研" scheme="https://leochen12138-a.github.io/tags/%E8%80%83%E7%A0%94/"/>
     
     <category term="数学一" scheme="https://leochen12138-a.github.io/tags/%E6%95%B0%E5%AD%A6%E4%B8%80/"/>
     
+    <category term="复习" scheme="https://leochen12138-a.github.io/tags/%E5%A4%8D%E4%B9%A0/"/>
+    
   </entry>
   
   <entry>
-    <title>如何利用和拓展Github</title>
+    <title>Github相关_浏览器插件_安装(一)</title>
     <link href="https://leochen12138-a.github.io/p/6cb83021/index.html"/>
     <id>https://leochen12138-a.github.io/p/6cb83021/index.html</id>
     <published>2020-08-21T01:02:45.000Z</published>
-    <updated>2021-02-09T10:45:19.555Z</updated>
+    <updated>2021-02-11T11:50:30.562Z</updated>
     
     
-    <summary type="html">使用 Chrome 和脚本定制化高效的处理 Github 页面及仓库项目</summary>
+    <summary type="html">利用浏览器插件的功能拓展 Github ，提高浏览和工作的效率。</summary>
     
     
     
-    <category term="导航" scheme="https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/"/>
+    <category term="DevOps" scheme="https://leochen12138-a.github.io/categories/DevOps/"/>
     
-    <category term="Github" scheme="https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/Github/"/>
+    <category term="Github" scheme="https://leochen12138-a.github.io/categories/DevOps/Github/"/>
     
     
-    <category term="Chrome" scheme="https://leochen12138-a.github.io/tags/Chrome/"/>
+    <category term="DevOps" scheme="https://leochen12138-a.github.io/tags/DevOps/"/>
     
     <category term="Github" scheme="https://leochen12138-a.github.io/tags/Github/"/>
     
-    <category term="工作环境" scheme="https://leochen12138-a.github.io/tags/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83/"/>
+    <category term="浏览器" scheme="https://leochen12138-a.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
     
-    <category term="效率" scheme="https://leochen12138-a.github.io/tags/%E6%95%88%E7%8E%87/"/>
+    <category term="插件" scheme="https://leochen12138-a.github.io/tags/%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
-    <title>Python各类库(补充)</title>
+    <title>Python所有库的功能和用途整理，非常全面(补充)</title>
     <link href="https://leochen12138-a.github.io/p/75db2910/index.html"/>
     <id>https://leochen12138-a.github.io/p/75db2910/index.html</id>
     <published>2020-08-19T11:39:35.000Z</published>
-    <updated>2021-02-09T10:46:01.561Z</updated>
+    <updated>2021-02-11T12:34:43.979Z</updated>
     
     
-    <summary type="html">Python各类库(补充)</summary>
+    <summary type="html">Python 中各种库按照用途分类整理的简要介绍。补充的部分</summary>
     
     
     
-    <category term="Python" scheme="https://leochen12138-a.github.io/categories/Python/"/>
+    <category term="Programming Language" scheme="https://leochen12138-a.github.io/categories/Programming-Language/"/>
     
-    <category term="库" scheme="https://leochen12138-a.github.io/categories/Python/%E5%BA%93/"/>
+    <category term="Python" scheme="https://leochen12138-a.github.io/categories/Programming-Language/Python/"/>
     
+    
+    <category term="Programming Language" scheme="https://leochen12138-a.github.io/tags/Programming-Language/"/>
     
     <category term="Python" scheme="https://leochen12138-a.github.io/tags/Python/"/>
     
     <category term="库" scheme="https://leochen12138-a.github.io/tags/%E5%BA%93/"/>
     
+    <category term="补充" scheme="https://leochen12138-a.github.io/tags/%E8%A1%A5%E5%85%85/"/>
+    
   </entry>
   
   <entry>
-    <title>如何了解最新资讯</title>
+    <title>RSS相关_安装(一)</title>
     <link href="https://leochen12138-a.github.io/p/b174f57a/index.html"/>
     <id>https://leochen12138-a.github.io/p/b174f57a/index.html</id>
     <published>2020-08-19T11:00:38.000Z</published>
-    <updated>2021-02-09T10:45:39.056Z</updated>
+    <updated>2021-02-11T12:36:31.971Z</updated>
     
     
-    <summary type="html">如何了解最新资讯</summary>
+    <summary type="html">利用 RSS 的机制，以订阅的形式获取站点的更新信息。</summary>
     
     
     
-    <category term="学习" scheme="https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="Software" scheme="https://leochen12138-a.github.io/categories/Software/"/>
     
-    <category term="工具" scheme="https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/%E5%B7%A5%E5%85%B7/"/>
+    <category term="RSS" scheme="https://leochen12138-a.github.io/categories/Software/RSS/"/>
     
+    
+    <category term="Software" scheme="https://leochen12138-a.github.io/tags/Software/"/>
     
     <category term="RSS" scheme="https://leochen12138-a.github.io/tags/RSS/"/>
     
   </entry>
   
   <entry>
-    <title>如何在WSL下做好键盘侠</title>
+    <title>WSL相关_安装(一)</title>
     <link href="https://leochen12138-a.github.io/p/19e842bb/index.html"/>
     <id>https://leochen12138-a.github.io/p/19e842bb/index.html</id>
     <published>2020-08-17T04:31:31.000Z</published>
-    <updated>2021-02-09T10:46:24.819Z</updated>
+    <updated>2021-02-11T11:22:50.623Z</updated>
     
     
     <summary type="html">如何在WSL环境下高效使用 Emacs 与 Autohotkey ,提升编辑与编程的速度,优化工作流.</summary>
     
     
     
-    <category term="学习" scheme="https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="Software" scheme="https://leochen12138-a.github.io/categories/Software/"/>
     
-    <category term="工具" scheme="https://leochen12138-a.github.io/categories/%E5%AD%A6%E4%B9%A0/%E5%B7%A5%E5%85%B7/"/>
+    <category term="WSL" scheme="https://leochen12138-a.github.io/categories/Software/WSL/"/>
     
     
     <category term="WSL" scheme="https://leochen12138-a.github.io/tags/WSL/"/>
     
-    <category term="Autohotkey" scheme="https://leochen12138-a.github.io/tags/Autohotkey/"/>
-    
-    <category term="Vim" scheme="https://leochen12138-a.github.io/tags/Vim/"/>
-    
-    <category term="Emacs" scheme="https://leochen12138-a.github.io/tags/Emacs/"/>
+    <category term="安装" scheme="https://leochen12138-a.github.io/tags/%E5%AE%89%E8%A3%85/"/>
     
   </entry>
   
   <entry>
-    <title>Python各类库(转载)</title>
+    <title>Python所有库的功能和用途整理，非常全面(转载)</title>
     <link href="https://leochen12138-a.github.io/p/c352598f/index.html"/>
     <id>https://leochen12138-a.github.io/p/c352598f/index.html</id>
     <published>2020-08-08T04:39:14.000Z</published>
-    <updated>2021-02-09T10:45:54.916Z</updated>
+    <updated>2021-02-11T12:37:58.539Z</updated>
     
     
-    <summary type="html">Python各类库(转载)</summary>
+    <summary type="html">Python 中各种库按照用途分类整理的简要介绍。</summary>
     
     
     
-    <category term="Python" scheme="https://leochen12138-a.github.io/categories/Python/"/>
+    <category term="ReprintArticle" scheme="https://leochen12138-a.github.io/categories/ReprintArticle/"/>
     
-    <category term="库" scheme="https://leochen12138-a.github.io/categories/Python/%E5%BA%93/"/>
+    <category term="Python" scheme="https://leochen12138-a.github.io/categories/ReprintArticle/Python/"/>
     
     
     <category term="Python" scheme="https://leochen12138-a.github.io/tags/Python/"/>
     
     <category term="库" scheme="https://leochen12138-a.github.io/tags/%E5%BA%93/"/>
     
+    <category term="ReprintArticle" scheme="https://leochen12138-a.github.io/tags/ReprintArticle/"/>
+    
   </entry>
   
   <entry>
-    <title>Windows平台下Node.js版本控制工具nvm-windows</title>
+    <title>Nodejs相关_安装(一)</title>
     <link href="https://leochen12138-a.github.io/p/37235ffc/index.html"/>
     <id>https://leochen12138-a.github.io/p/37235ffc/index.html</id>
     <published>2020-08-06T09:44:56.000Z</published>
-    <updated>2021-02-09T10:45:45.990Z</updated>
+    <updated>2021-02-11T12:41:53.346Z</updated>
     
     
-    <summary type="html">Nindows平台下Node.js版本控制工具nvm-windows</summary>
+    <summary type="html">Windows 平台下 Node.js 的版本控制工具 nvm-windows 的安装及配置</summary>
     
     
     
-    <category term="安装" scheme="https://leochen12138-a.github.io/categories/%E5%AE%89%E8%A3%85/"/>
+    <category term="Software" scheme="https://leochen12138-a.github.io/categories/Software/"/>
     
-    <category term="Node.js_nvm-winodows" scheme="https://leochen12138-a.github.io/categories/%E5%AE%89%E8%A3%85/Node-js-nvm-winodows/"/>
+    <category term="Nodejs" scheme="https://leochen12138-a.github.io/categories/Software/Nodejs/"/>
     
     
-    <category term="Windows" scheme="https://leochen12138-a.github.io/tags/Windows/"/>
+    <category term="Software" scheme="https://leochen12138-a.github.io/tags/Software/"/>
     
-    <category term="Node.js" scheme="https://leochen12138-a.github.io/tags/Node-js/"/>
-    
-    <category term="版本控制" scheme="https://leochen12138-a.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/"/>
+    <category term="Nodejs" scheme="https://leochen12138-a.github.io/tags/Nodejs/"/>
     
     <category term="nvm-windows" scheme="https://leochen12138-a.github.io/tags/nvm-windows/"/>
+    
+    <category term="nrm" scheme="https://leochen12138-a.github.io/tags/nrm/"/>
     
   </entry>
   
   <entry>
-    <title>站点汇总</title>
+    <title>个人收集的站点_全(一)</title>
     <link href="https://leochen12138-a.github.io/p/5f5df35/index.html"/>
     <id>https://leochen12138-a.github.io/p/5f5df35/index.html</id>
     <published>2020-07-21T03:00:51.000Z</published>
-    <updated>2021-02-09T10:46:38.098Z</updated>
+    <updated>2021-02-11T11:33:02.317Z</updated>
     
     
-    <summary type="html">这是一章站点导航的记录</summary>
+    <summary type="html">记录网上冲浪中发现的一些有价值站点</summary>
     
     
     
-    <category term="导航" scheme="https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/"/>
+    <category term="Site" scheme="https://leochen12138-a.github.io/categories/Site/"/>
     
-    <category term="站点" scheme="https://leochen12138-a.github.io/categories/%E5%AF%BC%E8%88%AA/%E7%AB%99%E7%82%B9/"/>
+    <category term="全" scheme="https://leochen12138-a.github.io/categories/Site/%E5%85%A8/"/>
     
+    
+    <category term="Site" scheme="https://leochen12138-a.github.io/tags/Site/"/>
     
     <category term="博客" scheme="https://leochen12138-a.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
@@ -223,29 +739,29 @@
   </entry>
   
   <entry>
-    <title>静态博客HEXO搭建全流程</title>
+    <title>Nodejs_HEXO静态博客相关_搭建(一)</title>
     <link href="https://leochen12138-a.github.io/p/b7b5d508/index.html"/>
     <id>https://leochen12138-a.github.io/p/b7b5d508/index.html</id>
     <published>2020-07-17T11:07:01.000Z</published>
-    <updated>2021-02-09T10:46:52.768Z</updated>
+    <updated>2021-02-11T11:29:32.888Z</updated>
     
     
-    <summary type="html">静态博客HEXO主题Windows下CICD|CDN|DevOps全流程指南</summary>
+    <summary type="html">基于 Nodejs 的 HEXO 静态博客，在 Windows 下的使用指南。</summary>
     
     
     
-    <category term="静态博客" scheme="https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/"/>
+    <category term="Software" scheme="https://leochen12138-a.github.io/categories/Software/"/>
     
-    <category term="hexo" scheme="https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/hexo/"/>
+    <category term="Nodejs" scheme="https://leochen12138-a.github.io/categories/Software/Nodejs/"/>
     
-    
-    <category term="Windows" scheme="https://leochen12138-a.github.io/tags/Windows/"/>
-    
-    <category term="CICD" scheme="https://leochen12138-a.github.io/tags/CICD/"/>
-    
-    <category term="CDN" scheme="https://leochen12138-a.github.io/tags/CDN/"/>
     
     <category term="DevOps" scheme="https://leochen12138-a.github.io/tags/DevOps/"/>
+    
+    <category term="Nodejs" scheme="https://leochen12138-a.github.io/tags/Nodejs/"/>
+    
+    <category term="Hexo" scheme="https://leochen12138-a.github.io/tags/Hexo/"/>
+    
+    <category term="搭建" scheme="https://leochen12138-a.github.io/tags/%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
@@ -254,19 +770,25 @@
     <link href="https://leochen12138-a.github.io/p/58d8cc5e/index.html"/>
     <id>https://leochen12138-a.github.io/p/58d8cc5e/index.html</id>
     <published>2020-07-17T10:31:14.000Z</published>
-    <updated>2021-02-09T10:46:08.468Z</updated>
+    <updated>2021-02-11T12:42:51.466Z</updated>
     
     
-    <summary type="html">hexo-butterfly标签外挂(转载)</summary>
+    <summary type="html">基于 Nodejs 的 HEXO 静态博客，在 Windows 下的使用指南。标签外挂的一些源代码</summary>
     
     
     
-    <category term="静态博客" scheme="https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/"/>
+    <category term="ReprintArticle" scheme="https://leochen12138-a.github.io/categories/ReprintArticle/"/>
     
-    <category term="hexo" scheme="https://leochen12138-a.github.io/categories/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/hexo/"/>
+    <category term="Hexo" scheme="https://leochen12138-a.github.io/categories/ReprintArticle/Hexo/"/>
     
     
-    <category term="hexo_butterfly" scheme="https://leochen12138-a.github.io/tags/hexo-butterfly/"/>
+    <category term="Nodejs" scheme="https://leochen12138-a.github.io/tags/Nodejs/"/>
+    
+    <category term="ReprintArticle" scheme="https://leochen12138-a.github.io/tags/ReprintArticle/"/>
+    
+    <category term="Hexo" scheme="https://leochen12138-a.github.io/tags/Hexo/"/>
+    
+    <category term="Hexo-butterfly" scheme="https://leochen12138-a.github.io/tags/Hexo-butterfly/"/>
     
     <category term="标签外挂" scheme="https://leochen12138-a.github.io/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/"/>
     
