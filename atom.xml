@@ -6,7 +6,7 @@
   <link href="https://leochen12138-a.github.io/atom.xml" rel="self"/>
   
   <link href="https://leochen12138-a.github.io/"/>
-  <updated>2021-02-11T12:54:50.053Z</updated>
+  <updated>2021-02-12T07:10:08.893Z</updated>
   <id>https://leochen12138-a.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Read_《别闹了，费曼先生》</title>
+    <link href="https://leochen12138-a.github.io/p/96ce950f/index.html"/>
+    <id>https://leochen12138-a.github.io/p/96ce950f/index.html</id>
+    <published>2021-02-12T05:49:25.000Z</published>
+    <updated>2021-02-12T07:10:08.893Z</updated>
+    
+    
+    <summary type="html">这是一篇阅读后记，书名《别闹了,费曼先生》。</summary>
+    
+    
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/categories/Life/"/>
+    
+    <category term="Read" scheme="https://leochen12138-a.github.io/categories/Life/Read/"/>
+    
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/tags/Life/"/>
+    
+    <category term="Read" scheme="https://leochen12138-a.github.io/tags/Read/"/>
+    
+    <category term="Physics" scheme="https://leochen12138-a.github.io/tags/Physics/"/>
+    
+    <category term="Humans" scheme="https://leochen12138-a.github.io/tags/Humans/"/>
+    
+    <category term="Feynmanl" scheme="https://leochen12138-a.github.io/tags/Feynmanl/"/>
+    
+  </entry>
   
   <entry>
     <title>Site-TOC</title>
@@ -309,9 +338,9 @@
     <category term="Physics" scheme="https://leochen12138-a.github.io/categories/TOC/Physics/"/>
     
     
-    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
-    
     <category term="Physics" scheme="https://leochen12138-a.github.io/tags/Physics/"/>
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
     
   </entry>
   
@@ -401,9 +430,9 @@
     <category term="Life" scheme="https://leochen12138-a.github.io/categories/TOC/Life/"/>
     
     
-    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
-    
     <category term="Life" scheme="https://leochen12138-a.github.io/tags/Life/"/>
+    
+    <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
     
   </entry>
   
@@ -654,7 +683,7 @@
     <link href="https://leochen12138-a.github.io/p/c352598f/index.html"/>
     <id>https://leochen12138-a.github.io/p/c352598f/index.html</id>
     <published>2020-08-08T04:39:14.000Z</published>
-    <updated>2021-02-11T12:37:58.539Z</updated>
+    <updated>2021-02-12T04:24:03.174Z</updated>
     
     
     <summary type="html">Python 中各种库按照用途分类整理的简要介绍。</summary>

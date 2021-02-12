@@ -15,8 +15,39 @@
     <atom:link href="https://leochen12138-a.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>学习,记录,测试</description>
-    <pubDate>Thu, 11 Feb 2021 12:54:50 GMT</pubDate>
+    <pubDate>Fri, 12 Feb 2021 07:10:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Read_《别闹了，费曼先生》</title>
+      <link>https://leochen12138-a.github.io/p/96ce950f/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/96ce950f/index.html</guid>
+      <pubDate>Fri, 12 Feb 2021 05:49:25 GMT</pubDate>
+      
+      <description>这是一篇阅读后记，书名《别闹了,费曼先生》。</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/Life/">Life</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/Life/Read/">Read</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Life/">Life</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Read/">Read</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Physics/">Physics</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Humans/">Humans</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Feynmanl/">Feynmanl</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/96ce950f/index.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Site-TOC</title>
@@ -334,9 +365,9 @@
       <category domain="https://leochen12138-a.github.io/categories/TOC/Physics/">Physics</category>
       
       
-      <category domain="https://leochen12138-a.github.io/tags/TOC/">TOC</category>
-      
       <category domain="https://leochen12138-a.github.io/tags/Physics/">Physics</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/TOC/">TOC</category>
       
       
       <comments>https://leochen12138-a.github.io/p/e105ff14/index.html#disqus_thread</comments>
@@ -434,9 +465,9 @@
       <category domain="https://leochen12138-a.github.io/categories/TOC/Life/">Life</category>
       
       
-      <category domain="https://leochen12138-a.github.io/tags/TOC/">TOC</category>
-      
       <category domain="https://leochen12138-a.github.io/tags/Life/">Life</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/TOC/">TOC</category>
       
       
       <comments>https://leochen12138-a.github.io/p/eaaecfff/index.html#disqus_thread</comments>
