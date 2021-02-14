@@ -6,7 +6,7 @@
   <link href="https://leochen12138-a.github.io/atom.xml" rel="self"/>
   
   <link href="https://leochen12138-a.github.io/"/>
-  <updated>2021-02-12T07:13:59.777Z</updated>
+  <updated>2021-02-14T03:34:37.900Z</updated>
   <id>https://leochen12138-a.github.io/</id>
   
   <author>
@@ -17,11 +17,196 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Read_《别闹了，费曼先生》</title>
+    <title>Markdown 相关</title>
+    <link href="https://leochen12138-a.github.io/p/e3873d73/index.html"/>
+    <id>https://leochen12138-a.github.io/p/e3873d73/index.html</id>
+    <published>2021-02-14T02:50:07.000Z</published>
+    <updated>2021-02-14T03:34:37.900Z</updated>
+    
+    
+    <summary type="html">这是一篇 Markdown 相关 的记录</summary>
+    
+    
+    
+    <category term="Language" scheme="https://leochen12138-a.github.io/categories/Language/"/>
+    
+    <category term="Markdown" scheme="https://leochen12138-a.github.io/categories/Language/Markdown/"/>
+    
+    
+    <category term="Language" scheme="https://leochen12138-a.github.io/tags/Language/"/>
+    
+    <category term="Markdown" scheme="https://leochen12138-a.github.io/tags/Markdown/"/>
+    
+    <category term="Template" scheme="https://leochen12138-a.github.io/tags/Template/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《费恩曼物理学讲义(新千年版) 第一卷》(一)</title>
+    <link href="https://leochen12138-a.github.io/p/1baa67fe/index.html"/>
+    <id>https://leochen12138-a.github.io/p/1baa67fe/index.html</id>
+    <published>2021-02-13T04:23:11.000Z</published>
+    <updated>2021-02-13T07:42:04.089Z</updated>
+    
+    
+    <summary type="html">这是一篇 《费恩曼物理学讲义(新千年版) 第一卷》的记录</summary>
+    
+    
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/categories/Life/"/>
+    
+    <category term="Read" scheme="https://leochen12138-a.github.io/categories/Life/Read/"/>
+    
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/tags/Life/"/>
+    
+    <category term="Read" scheme="https://leochen12138-a.github.io/tags/Read/"/>
+    
+    <category term="Physic" scheme="https://leochen12138-a.github.io/tags/Physic/"/>
+    
+    <category term="Feyman" scheme="https://leochen12138-a.github.io/tags/Feyman/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github相关_Commit规范(二)</title>
+    <link href="https://leochen12138-a.github.io/p/5d5e1eb0/index.html"/>
+    <id>https://leochen12138-a.github.io/p/5d5e1eb0/index.html</id>
+    <published>2021-02-12T09:54:13.000Z</published>
+    <updated>2021-02-12T10:00:59.329Z</updated>
+    
+    
+    <summary type="html">这是一篇 Github相关_Commit规范(二) 的记录</summary>
+    
+    
+    
+    <category term="DevOps" scheme="https://leochen12138-a.github.io/categories/DevOps/"/>
+    
+    <category term="Github" scheme="https://leochen12138-a.github.io/categories/DevOps/Github/"/>
+    
+    
+    <category term="DevOps" scheme="https://leochen12138-a.github.io/tags/DevOps/"/>
+    
+    <category term="Github" scheme="https://leochen12138-a.github.io/tags/Github/"/>
+    
+    <category term="Commit" scheme="https://leochen12138-a.github.io/tags/Commit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Certificate_CCF CSP与PAT</title>
+    <link href="https://leochen12138-a.github.io/p/361de698/index.html"/>
+    <id>https://leochen12138-a.github.io/p/361de698/index.html</id>
+    <published>2021-02-12T09:06:27.000Z</published>
+    <updated>2021-02-12T09:26:51.851Z</updated>
+    
+    
+    <summary type="html">这是一篇 Certificate_CCF CSP 与 PAT 的记录</summary>
+    
+    
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/categories/Life/"/>
+    
+    <category term="Certificate" scheme="https://leochen12138-a.github.io/categories/Life/Certificate/"/>
+    
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/tags/Life/"/>
+    
+    <category term="Certificate" scheme="https://leochen12138-a.github.io/tags/Certificate/"/>
+    
+    <category term="CCF" scheme="https://leochen12138-a.github.io/tags/CCF/"/>
+    
+    <category term="CSP" scheme="https://leochen12138-a.github.io/tags/CSP/"/>
+    
+    <category term="PAT" scheme="https://leochen12138-a.github.io/tags/PAT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DevOps_MS-Dos Command</title>
+    <link href="https://leochen12138-a.github.io/p/4f545105/index.html"/>
+    <id>https://leochen12138-a.github.io/p/4f545105/index.html</id>
+    <published>2021-02-12T08:34:36.000Z</published>
+    <updated>2021-02-12T10:14:32.290Z</updated>
+    
+    
+    <summary type="html">这是一篇 DevOps_MS-Dos Command 的记录</summary>
+    
+    
+    
+    <category term="DevOps" scheme="https://leochen12138-a.github.io/categories/DevOps/"/>
+    
+    <category term="Command" scheme="https://leochen12138-a.github.io/categories/DevOps/Command/"/>
+    
+    
+    <category term="DevOps" scheme="https://leochen12138-a.github.io/tags/DevOps/"/>
+    
+    <category term="Command" scheme="https://leochen12138-a.github.io/tags/Command/"/>
+    
+    <category term="MS-Dos" scheme="https://leochen12138-a.github.io/tags/MS-Dos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>dotfile 相关_config</title>
+    <link href="https://leochen12138-a.github.io/p/15f9fa3d/index.html"/>
+    <id>https://leochen12138-a.github.io/p/15f9fa3d/index.html</id>
+    <published>2021-02-12T07:56:30.000Z</published>
+    <updated>2021-02-12T10:08:35.569Z</updated>
+    
+    
+    <summary type="html">这是一篇 dotfile 相关_config 文件记录</summary>
+    
+    
+    
+    <category term="dotfile" scheme="https://leochen12138-a.github.io/categories/dotfile/"/>
+    
+    <category term="config" scheme="https://leochen12138-a.github.io/categories/dotfile/config/"/>
+    
+    
+    <category term="Windows" scheme="https://leochen12138-a.github.io/tags/Windows/"/>
+    
+    <category term="dotfile" scheme="https://leochen12138-a.github.io/tags/dotfile/"/>
+    
+    <category term="config" scheme="https://leochen12138-a.github.io/tags/config/"/>
+    
+    <category term="MacOS" scheme="https://leochen12138-a.github.io/tags/MacOS/"/>
+    
+    <category term="Linux" scheme="https://leochen12138-a.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 相关_安装(一)</title>
+    <link href="https://leochen12138-a.github.io/p/e4ca96b9/index.html"/>
+    <id>https://leochen12138-a.github.io/p/e4ca96b9/index.html</id>
+    <published>2021-02-12T07:25:04.000Z</published>
+    <updated>2021-02-12T10:10:00.576Z</updated>
+    
+    
+    <summary type="html">这是一篇 Windows 相关_安装(一) 的记录</summary>
+    
+    
+    
+    <category term="Software" scheme="https://leochen12138-a.github.io/categories/Software/"/>
+    
+    <category term="Windows" scheme="https://leochen12138-a.github.io/categories/Software/Windows/"/>
+    
+    
+    <category term="Software" scheme="https://leochen12138-a.github.io/tags/Software/"/>
+    
+    <category term="Windows" scheme="https://leochen12138-a.github.io/tags/Windows/"/>
+    
+    <category term="Install" scheme="https://leochen12138-a.github.io/tags/Install/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《别闹了，费曼先生》</title>
     <link href="https://leochen12138-a.github.io/p/96ce950f/index.html"/>
     <id>https://leochen12138-a.github.io/p/96ce950f/index.html</id>
     <published>2021-02-12T05:49:25.000Z</published>
-    <updated>2021-02-12T07:13:59.777Z</updated>
+    <updated>2021-02-13T07:42:33.963Z</updated>
     
     
     <summary type="html">这是一篇阅读后记，书名《别闹了,费曼先生》。</summary>
@@ -35,25 +220,25 @@
     
     <category term="Life" scheme="https://leochen12138-a.github.io/tags/Life/"/>
     
-    <category term="Read" scheme="https://leochen12138-a.github.io/tags/Read/"/>
-    
     <category term="Physics" scheme="https://leochen12138-a.github.io/tags/Physics/"/>
     
-    <category term="Humans" scheme="https://leochen12138-a.github.io/tags/Humans/"/>
+    <category term="Read" scheme="https://leochen12138-a.github.io/tags/Read/"/>
     
-    <category term="Feynmanl" scheme="https://leochen12138-a.github.io/tags/Feynmanl/"/>
+    <category term="Human" scheme="https://leochen12138-a.github.io/tags/Human/"/>
+    
+    <category term="Feynman" scheme="https://leochen12138-a.github.io/tags/Feynman/"/>
     
   </entry>
   
   <entry>
-    <title>Site-TOC</title>
+    <title>Site_TOC</title>
     <link href="https://leochen12138-a.github.io/p/c01d27ff/index.html"/>
     <id>https://leochen12138-a.github.io/p/c01d27ff/index.html</id>
     <published>2021-02-11T12:23:56.000Z</published>
-    <updated>2021-02-11T12:54:50.053Z</updated>
+    <updated>2021-02-13T07:23:04.025Z</updated>
     
     
-    <summary type="html">这是一个与 Site 相关的导航页面</summary>
+    <summary type="html">这是一个与 Site_TOC 相关的导航页面</summary>
     
     
     
@@ -234,7 +419,7 @@
     <link href="https://leochen12138-a.github.io/p/7e299bd4/index.html"/>
     <id>https://leochen12138-a.github.io/p/7e299bd4/index.html</id>
     <published>2021-02-11T09:16:58.000Z</published>
-    <updated>2021-02-11T12:54:55.592Z</updated>
+    <updated>2021-02-12T08:33:09.183Z</updated>
     
     
     <summary type="html">这是一个与 Software 相关的导航页面</summary>
@@ -326,7 +511,7 @@
     <link href="https://leochen12138-a.github.io/p/e105ff14/index.html"/>
     <id>https://leochen12138-a.github.io/p/e105ff14/index.html</id>
     <published>2021-02-11T09:11:41.000Z</published>
-    <updated>2021-02-11T12:54:13.546Z</updated>
+    <updated>2021-02-13T04:20:02.342Z</updated>
     
     
     <summary type="html">这是一个与 Physics 相关的导航页面</summary>
@@ -338,9 +523,9 @@
     <category term="Physics" scheme="https://leochen12138-a.github.io/categories/TOC/Physics/"/>
     
     
-    <category term="Physics" scheme="https://leochen12138-a.github.io/tags/Physics/"/>
-    
     <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Physics" scheme="https://leochen12138-a.github.io/tags/Physics/"/>
     
   </entry>
   
@@ -430,9 +615,9 @@
     <category term="Life" scheme="https://leochen12138-a.github.io/categories/TOC/Life/"/>
     
     
-    <category term="Life" scheme="https://leochen12138-a.github.io/tags/Life/"/>
-    
     <category term="TOC" scheme="https://leochen12138-a.github.io/tags/TOC/"/>
+    
+    <category term="Life" scheme="https://leochen12138-a.github.io/tags/Life/"/>
     
   </entry>
   
@@ -487,7 +672,7 @@
     <link href="https://leochen12138-a.github.io/p/2752b602/index.html"/>
     <id>https://leochen12138-a.github.io/p/2752b602/index.html</id>
     <published>2021-02-11T09:08:16.000Z</published>
-    <updated>2021-02-11T12:53:15.972Z</updated>
+    <updated>2021-02-12T10:20:47.958Z</updated>
     
     
     <summary type="html">这是一个与 CS 相关的导航页面</summary>
@@ -583,7 +768,7 @@
     <link href="https://leochen12138-a.github.io/p/6cb83021/index.html"/>
     <id>https://leochen12138-a.github.io/p/6cb83021/index.html</id>
     <published>2020-08-21T01:02:45.000Z</published>
-    <updated>2021-02-11T11:50:30.562Z</updated>
+    <updated>2021-02-12T10:11:08.979Z</updated>
     
     
     <summary type="html">利用浏览器插件的功能拓展 Github ，提高浏览和工作的效率。</summary>
@@ -633,11 +818,11 @@
   </entry>
   
   <entry>
-    <title>RSS相关_安装(一)</title>
+    <title>RSS 相关_安装(一)</title>
     <link href="https://leochen12138-a.github.io/p/b174f57a/index.html"/>
     <id>https://leochen12138-a.github.io/p/b174f57a/index.html</id>
     <published>2020-08-19T11:00:38.000Z</published>
-    <updated>2021-02-11T12:36:31.971Z</updated>
+    <updated>2021-02-13T04:53:52.244Z</updated>
     
     
     <summary type="html">利用 RSS 的机制，以订阅的形式获取站点的更新信息。</summary>
@@ -656,14 +841,14 @@
   </entry>
   
   <entry>
-    <title>WSL相关_安装(一)</title>
+    <title>WSL 相关_安装(一)</title>
     <link href="https://leochen12138-a.github.io/p/19e842bb/index.html"/>
     <id>https://leochen12138-a.github.io/p/19e842bb/index.html</id>
     <published>2020-08-17T04:31:31.000Z</published>
-    <updated>2021-02-11T11:22:50.623Z</updated>
+    <updated>2021-02-12T07:50:33.684Z</updated>
     
     
-    <summary type="html">如何在WSL环境下高效使用 Emacs 与 Autohotkey ,提升编辑与编程的速度,优化工作流.</summary>
+    <summary type="html">如何在 WSL 环境下高效使用 Emacs 与 Autohotkey ,提升编辑与编程的速度,优化工作流.</summary>
     
     
     
@@ -671,6 +856,8 @@
     
     <category term="WSL" scheme="https://leochen12138-a.github.io/categories/Software/WSL/"/>
     
+    
+    <category term="Software" scheme="https://leochen12138-a.github.io/tags/Software/"/>
     
     <category term="WSL" scheme="https://leochen12138-a.github.io/tags/WSL/"/>
     

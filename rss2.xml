@@ -15,11 +15,210 @@
     <atom:link href="https://leochen12138-a.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>学习,记录,测试</description>
-    <pubDate>Fri, 12 Feb 2021 07:13:59 GMT</pubDate>
+    <pubDate>Sun, 14 Feb 2021 03:34:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>Read_《别闹了，费曼先生》</title>
+      <title>Markdown 相关</title>
+      <link>https://leochen12138-a.github.io/p/e3873d73/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/e3873d73/index.html</guid>
+      <pubDate>Sun, 14 Feb 2021 02:50:07 GMT</pubDate>
+      
+      <description>这是一篇 Markdown 相关 的记录</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/Language/">Language</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/Language/Markdown/">Markdown</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Language/">Language</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Markdown/">Markdown</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Template/">Template</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/e3873d73/index.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>《费恩曼物理学讲义(新千年版) 第一卷》(一)</title>
+      <link>https://leochen12138-a.github.io/p/1baa67fe/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/1baa67fe/index.html</guid>
+      <pubDate>Sat, 13 Feb 2021 04:23:11 GMT</pubDate>
+      
+      <description>这是一篇 《费恩曼物理学讲义(新千年版) 第一卷》的记录</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/Life/">Life</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/Life/Read/">Read</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Life/">Life</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Read/">Read</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Physic/">Physic</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Feyman/">Feyman</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/1baa67fe/index.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Github相关_Commit规范(二)</title>
+      <link>https://leochen12138-a.github.io/p/5d5e1eb0/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/5d5e1eb0/index.html</guid>
+      <pubDate>Fri, 12 Feb 2021 09:54:13 GMT</pubDate>
+      
+      <description>这是一篇 Github相关_Commit规范(二) 的记录</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/DevOps/">DevOps</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/DevOps/Github/">Github</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/DevOps/">DevOps</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Github/">Github</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Commit/">Commit</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/5d5e1eb0/index.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Certificate_CCF CSP与PAT</title>
+      <link>https://leochen12138-a.github.io/p/361de698/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/361de698/index.html</guid>
+      <pubDate>Fri, 12 Feb 2021 09:06:27 GMT</pubDate>
+      
+      <description>这是一篇 Certificate_CCF CSP 与 PAT 的记录</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/Life/">Life</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/Life/Certificate/">Certificate</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Life/">Life</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Certificate/">Certificate</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/CCF/">CCF</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/CSP/">CSP</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/PAT/">PAT</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/361de698/index.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>DevOps_MS-Dos Command</title>
+      <link>https://leochen12138-a.github.io/p/4f545105/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/4f545105/index.html</guid>
+      <pubDate>Fri, 12 Feb 2021 08:34:36 GMT</pubDate>
+      
+      <description>这是一篇 DevOps_MS-Dos Command 的记录</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/DevOps/">DevOps</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/DevOps/Command/">Command</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/DevOps/">DevOps</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Command/">Command</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/MS-Dos/">MS-Dos</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/4f545105/index.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>dotfile 相关_config</title>
+      <link>https://leochen12138-a.github.io/p/15f9fa3d/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/15f9fa3d/index.html</guid>
+      <pubDate>Fri, 12 Feb 2021 07:56:30 GMT</pubDate>
+      
+      <description>这是一篇 dotfile 相关_config 文件记录</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/dotfile/">dotfile</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/dotfile/config/">config</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Windows/">Windows</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/dotfile/">dotfile</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/config/">config</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/MacOS/">MacOS</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Linux/">Linux</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/15f9fa3d/index.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Windows 相关_安装(一)</title>
+      <link>https://leochen12138-a.github.io/p/e4ca96b9/index.html</link>
+      <guid>https://leochen12138-a.github.io/p/e4ca96b9/index.html</guid>
+      <pubDate>Fri, 12 Feb 2021 07:25:04 GMT</pubDate>
+      
+      <description>这是一篇 Windows 相关_安装(一) 的记录</description>
+      
+      
+      
+      
+      <category domain="https://leochen12138-a.github.io/categories/Software/">Software</category>
+      
+      <category domain="https://leochen12138-a.github.io/categories/Software/Windows/">Windows</category>
+      
+      
+      <category domain="https://leochen12138-a.github.io/tags/Software/">Software</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Windows/">Windows</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Install/">Install</category>
+      
+      
+      <comments>https://leochen12138-a.github.io/p/e4ca96b9/index.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>《别闹了，费曼先生》</title>
       <link>https://leochen12138-a.github.io/p/96ce950f/index.html</link>
       <guid>https://leochen12138-a.github.io/p/96ce950f/index.html</guid>
       <pubDate>Fri, 12 Feb 2021 05:49:25 GMT</pubDate>
@@ -36,13 +235,13 @@
       
       <category domain="https://leochen12138-a.github.io/tags/Life/">Life</category>
       
-      <category domain="https://leochen12138-a.github.io/tags/Read/">Read</category>
-      
       <category domain="https://leochen12138-a.github.io/tags/Physics/">Physics</category>
       
-      <category domain="https://leochen12138-a.github.io/tags/Humans/">Humans</category>
+      <category domain="https://leochen12138-a.github.io/tags/Read/">Read</category>
       
-      <category domain="https://leochen12138-a.github.io/tags/Feynmanl/">Feynmanl</category>
+      <category domain="https://leochen12138-a.github.io/tags/Human/">Human</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Feynman/">Feynman</category>
       
       
       <comments>https://leochen12138-a.github.io/p/96ce950f/index.html#disqus_thread</comments>
@@ -50,12 +249,12 @@
     </item>
     
     <item>
-      <title>Site-TOC</title>
+      <title>Site_TOC</title>
       <link>https://leochen12138-a.github.io/p/c01d27ff/index.html</link>
       <guid>https://leochen12138-a.github.io/p/c01d27ff/index.html</guid>
       <pubDate>Thu, 11 Feb 2021 12:23:56 GMT</pubDate>
       
-      <description>这是一个与 Site 相关的导航页面</description>
+      <description>这是一个与 Site_TOC 相关的导航页面</description>
       
       
       
@@ -365,9 +564,9 @@
       <category domain="https://leochen12138-a.github.io/categories/TOC/Physics/">Physics</category>
       
       
-      <category domain="https://leochen12138-a.github.io/tags/Physics/">Physics</category>
-      
       <category domain="https://leochen12138-a.github.io/tags/TOC/">TOC</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Physics/">Physics</category>
       
       
       <comments>https://leochen12138-a.github.io/p/e105ff14/index.html#disqus_thread</comments>
@@ -465,9 +664,9 @@
       <category domain="https://leochen12138-a.github.io/categories/TOC/Life/">Life</category>
       
       
-      <category domain="https://leochen12138-a.github.io/tags/Life/">Life</category>
-      
       <category domain="https://leochen12138-a.github.io/tags/TOC/">TOC</category>
+      
+      <category domain="https://leochen12138-a.github.io/tags/Life/">Life</category>
       
       
       <comments>https://leochen12138-a.github.io/p/eaaecfff/index.html#disqus_thread</comments>
@@ -687,7 +886,7 @@
     </item>
     
     <item>
-      <title>RSS相关_安装(一)</title>
+      <title>RSS 相关_安装(一)</title>
       <link>https://leochen12138-a.github.io/p/b174f57a/index.html</link>
       <guid>https://leochen12138-a.github.io/p/b174f57a/index.html</guid>
       <pubDate>Wed, 19 Aug 2020 11:00:38 GMT</pubDate>
@@ -712,12 +911,12 @@
     </item>
     
     <item>
-      <title>WSL相关_安装(一)</title>
+      <title>WSL 相关_安装(一)</title>
       <link>https://leochen12138-a.github.io/p/19e842bb/index.html</link>
       <guid>https://leochen12138-a.github.io/p/19e842bb/index.html</guid>
       <pubDate>Mon, 17 Aug 2020 04:31:31 GMT</pubDate>
       
-      <description>如何在WSL环境下高效使用 Emacs 与 Autohotkey ,提升编辑与编程的速度,优化工作流.</description>
+      <description>如何在 WSL 环境下高效使用 Emacs 与 Autohotkey ,提升编辑与编程的速度,优化工作流.</description>
       
       
       
@@ -726,6 +925,8 @@
       
       <category domain="https://leochen12138-a.github.io/categories/Software/WSL/">WSL</category>
       
+      
+      <category domain="https://leochen12138-a.github.io/tags/Software/">Software</category>
       
       <category domain="https://leochen12138-a.github.io/tags/WSL/">WSL</category>
       
