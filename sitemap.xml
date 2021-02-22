@@ -389,14 +389,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/tags/Hardware/</loc>
+    <loc>https://leochen12138-a.github.io/tags/DevOps/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/tags/DevOps/</loc>
+    <loc>https://leochen12138-a.github.io/tags/Hardware/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -431,14 +431,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/tags/Physics/</loc>
+    <loc>https://leochen12138-a.github.io/tags/Papers/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/tags/Papers/</loc>
+    <loc>https://leochen12138-a.github.io/tags/Physics/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -592,6 +592,27 @@
   </url>
   
   <url>
+    <loc>https://leochen12138-a.github.io/tags/Nodejs/</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leochen12138-a.github.io/tags/nvm-windows/</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leochen12138-a.github.io/tags/nrm/</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://leochen12138-a.github.io/tags/dotfile/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
@@ -614,27 +635,6 @@
   
   <url>
     <loc>https://leochen12138-a.github.io/tags/Linux/</loc>
-    <lastmod>2021-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://leochen12138-a.github.io/tags/Nodejs/</loc>
-    <lastmod>2021-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://leochen12138-a.github.io/tags/nvm-windows/</loc>
-    <lastmod>2021-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://leochen12138-a.github.io/tags/nrm/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -748,7 +748,7 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Hardware/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/DevOps/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -762,7 +762,7 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/DevOps/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Hardware/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -832,7 +832,7 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Physics/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Papers/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -846,7 +846,7 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Papers/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Physics/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -972,14 +972,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/dotfile/</loc>
+    <loc>https://leochen12138-a.github.io/categories/Software/Nodejs/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/Software/Nodejs/</loc>
+    <loc>https://leochen12138-a.github.io/categories/dotfile/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1021,14 +1021,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/ReprintArticle/Python/</loc>
+    <loc>https://leochen12138-a.github.io/categories/Site/%E5%85%A8/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/Site/%E5%85%A8/</loc>
+    <loc>https://leochen12138-a.github.io/categories/ReprintArticle/Python/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
