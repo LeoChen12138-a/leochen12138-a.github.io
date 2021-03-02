@@ -403,6 +403,13 @@
   </url>
   
   <url>
+    <loc>https://leochen12138-a.github.io/tags/Language/</loc>
+    <lastmod>2021-03-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://leochen12138-a.github.io/tags/Journal/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
@@ -411,13 +418,6 @@
   
   <url>
     <loc>https://leochen12138-a.github.io/tags/Life/</loc>
-    <lastmod>2021-03-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://leochen12138-a.github.io/tags/Language/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -557,13 +557,6 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/tags/RSS/</loc>
-    <lastmod>2021-03-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://leochen12138-a.github.io/tags/WSL/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
@@ -572,6 +565,13 @@
   
   <url>
     <loc>https://leochen12138-a.github.io/tags/%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2021-03-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leochen12138-a.github.io/tags/RSS/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -769,7 +769,7 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Journal/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Language/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -783,14 +783,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Life/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Journal/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Language/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Life/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -804,14 +804,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Mathematics/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Net/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Net/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Mathematics/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -825,14 +825,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/Papers/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/OS/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/TOC/OS/</loc>
+    <loc>https://leochen12138-a.github.io/categories/TOC/Papers/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -951,14 +951,14 @@
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/Software/RSS/</loc>
+    <loc>https://leochen12138-a.github.io/categories/Software/WSL/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://leochen12138-a.github.io/categories/Software/WSL/</loc>
+    <loc>https://leochen12138-a.github.io/categories/Software/RSS/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
