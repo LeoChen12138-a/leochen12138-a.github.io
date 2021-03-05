@@ -6,7 +6,7 @@
   <link href="https://leochen12138-a.github.io/atom.xml" rel="self"/>
   
   <link href="https://leochen12138-a.github.io/"/>
-  <updated>2021-02-20T13:35:09.741Z</updated>
+  <updated>2021-03-05T13:05:53.796Z</updated>
   <id>https://leochen12138-a.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数理逻辑_笔记</title>
+    <link href="https://leochen12138-a.github.io/p/cff1fc37/index.html"/>
+    <id>https://leochen12138-a.github.io/p/cff1fc37/index.html</id>
+    <published>2021-03-04T05:51:52.000Z</published>
+    <updated>2021-03-05T13:05:53.796Z</updated>
+    
+    
+    <summary type="html">这是一篇 数理逻辑_笔记 的记录</summary>
+    
+    
+    
+    <category term="Books" scheme="https://leochen12138-a.github.io/categories/Books/"/>
+    
+    <category term="Mathematics" scheme="https://leochen12138-a.github.io/categories/Books/Mathematics/"/>
+    
+    
+    <category term="Logic" scheme="https://leochen12138-a.github.io/tags/Logic/"/>
+    
+    <category term="Note" scheme="https://leochen12138-a.github.io/tags/Note/"/>
+    
+  </entry>
   
   <entry>
     <title>OS 相关</title>
@@ -692,7 +715,7 @@
     <link href="https://leochen12138-a.github.io/p/93e4730e/index.html"/>
     <id>https://leochen12138-a.github.io/p/93e4730e/index.html</id>
     <published>2021-02-07T15:07:04.000Z</published>
-    <updated>2021-03-04T03:00:09.469Z</updated>
+    <updated>2021-03-05T09:31:44.645Z</updated>
     
     
     <summary type="html">基于“黄博士网”的高等数学手册,考研数学一大纲的复习笔记。</summary>
