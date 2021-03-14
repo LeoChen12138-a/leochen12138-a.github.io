@@ -1,6 +1,8 @@
+#leochen12138-a.github.io
 User-agent: *
 Allow: /
-Allow: /posts/
+Allow: /box/
+Allow: /p/
 
 Disallow: /about/
 Disallow: /archives/
